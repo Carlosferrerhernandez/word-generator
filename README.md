@@ -12,7 +12,6 @@
 * PHP >= 8.0.2
 * Composer
 * Git
-* MySQL
 
 ## Installation ##
 
